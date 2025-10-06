@@ -297,3 +297,6 @@ print(f'Prediction: {prediction} (Probability >50K: {prob:.4f})')
 #### Prediction 
 <img width="436" height="45" alt="image" src="https://github.com/user-attachments/assets/0db13fda-6391-48aa-97e2-bc8b173d6704" />
 
+## Result:
+
+Thus successfully implemented Census Income Classification
