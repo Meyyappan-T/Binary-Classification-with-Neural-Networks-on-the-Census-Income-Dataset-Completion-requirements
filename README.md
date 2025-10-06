@@ -289,7 +289,9 @@ print(f'Prediction: {prediction} (Probability >50K: {prob:.4f})')
 ## Output:
 #### Evaluation
 <img width="666" height="576" alt="image" src="https://github.com/user-attachments/assets/74b41c65-ef5f-461b-b256-a60c87afe5fe" />
+
 #### Loss and Accuracy
+
 <img width="335" height="78" alt="image" src="https://github.com/user-attachments/assets/111bcb1a-d069-4244-a621-d0777ed3c71e" />
 
 #### Prediction 
